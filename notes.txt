@@ -1,0 +1,5 @@
+(1) If Add Folder button stops working, remove handleSubmit function
+and recreate it step by step.
+
+There are no errors it will work after recreating handleSubmit
+function
